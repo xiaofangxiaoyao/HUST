@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/24283/SavingFile/code/HUST/Hello
+# Install script for directory: C:/Users/24283/SavingFile/code/HUST/MatrixTransfer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/24283/SavingFile/code/HUST/Hello/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/24283/SavingFile/code/HUST/MatrixTransfer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

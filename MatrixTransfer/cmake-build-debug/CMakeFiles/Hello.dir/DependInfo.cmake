@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/24283/SavingFile/code/HUST/Hello/main.c" "C:/Users/24283/SavingFile/code/HUST/Hello/cmake-build-debug/CMakeFiles/Hello.dir/main.c.obj"
+  "C:/Users/24283/SavingFile/code/HUST/MatrixTransfer/main.c" "C:/Users/24283/SavingFile/code/HUST/MatrixTransfer/cmake-build-debug/CMakeFiles/Hello.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
