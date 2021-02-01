@@ -1,0 +1,2 @@
+C:\PROGRA~2\mingw64\bin\ar.exe qc libBigDateAdd.a  CMakeFiles/BigDateAdd.dir/library.c.obj
+C:\PROGRA~2\mingw64\bin\ranlib.exe libBigDateAdd.a
