@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/24283/SavingFile/code/HUST/BigDate/main.c
+stdio.h
+-
+string.h
+C:/Users/24283/SavingFile/code/HUST/BigDate/string.h
+
