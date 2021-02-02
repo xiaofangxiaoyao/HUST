@@ -1,0 +1,3 @@
+C:\Users\24283\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\GradeSort.dir/objects.a
+C:\PROGRA~2\mingw64\bin\ar.exe cr CMakeFiles\GradeSort.dir/objects.a @CMakeFiles\GradeSort.dir\objects1.rsp
+C:\PROGRA~2\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\GradeSort.dir/objects.a -Wl,--no-whole-archive  -o GradeSort.exe -Wl,--out-implib,libGradeSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GradeSort.dir\linklibs.rsp
