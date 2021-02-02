@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/24283/SavingFile/code/HUST/GradeSort/main.c
+stdio.h
+-
+string.h
+C:/Users/24283/SavingFile/code/HUST/GradeSort/string.h
+stdlib.h
+C:/Users/24283/SavingFile/code/HUST/GradeSort/stdlib.h
+
