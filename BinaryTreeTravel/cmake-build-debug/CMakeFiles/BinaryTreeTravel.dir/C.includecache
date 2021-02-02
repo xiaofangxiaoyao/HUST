@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/24283/SavingFile/code/HUST/BinaryTreeTravel/main.c
+stdio.h
+-
+string.h
+C:/Users/24283/SavingFile/code/HUST/BinaryTreeTravel/string.h
+stdlib.h
+C:/Users/24283/SavingFile/code/HUST/BinaryTreeTravel/stdlib.h
+
