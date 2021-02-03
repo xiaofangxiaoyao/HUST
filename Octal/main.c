@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    int number;
+    while(scanf("%d",&number)!=EOF){
+        printf("%o\n",number);
+    }
     return 0;
 }
