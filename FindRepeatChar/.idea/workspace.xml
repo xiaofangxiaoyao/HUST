@@ -12,10 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58180a76-ea23-452e-9e3e-18b9ea2c3068" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FindRepeatChar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FindRepeatChar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/.idea/Factorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/.idea/Factorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/cmake-build-debug/CMakeFiles/Factorial.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/cmake-build-debug/CMakeFiles/Factorial.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorial/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Factorial/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,7 @@
       <updated>1612348385039</updated>
       <workItem from="1612348386492" duration="702000" />
       <workItem from="1612349133030" duration="5301000" />
+      <workItem from="1612359701801" duration="654000" />
     </task>
     <servers />
   </component>
