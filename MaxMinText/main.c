@@ -13,7 +13,7 @@ int main() {
     struct Node* NodeArray[100];
     int len=0;
     int i=0;
-    while (gets(s)!=NULL){
+    while (gets(s)!=NULL){//remember:when gets,gets:null;when scanf fscanf:EOF
         len=strlen(s);
 //        printf("len= %d\n",len);
         NodeArray[i]=CreateNode(s,len);
