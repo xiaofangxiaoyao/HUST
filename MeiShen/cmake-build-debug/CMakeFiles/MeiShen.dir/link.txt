@@ -1,0 +1,3 @@
+C:\Users\24283\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\MeiShen.dir/objects.a
+C:\PROGRA~2\mingw64\bin\ar.exe cr CMakeFiles\MeiShen.dir/objects.a @CMakeFiles\MeiShen.dir\objects1.rsp
+C:\PROGRA~2\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\MeiShen.dir/objects.a -Wl,--no-whole-archive  -o MeiShen.exe -Wl,--out-implib,libMeiShen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MeiShen.dir\linklibs.rsp
