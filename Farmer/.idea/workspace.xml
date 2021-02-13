@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0399b-f4f0-4b4e-8845-3784ae4aca25" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeiShen/.idea/MeiShen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeiShen/.idea/MeiShen.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
       <workItem from="1613129045181" duration="21000" />
       <workItem from="1613129081710" duration="253000" />
       <workItem from="1613186115408" duration="63000" />
+      <workItem from="1613186189655" duration="70000" />
     </task>
     <servers />
   </component>
