@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ScannerInString" targetName="ScannerInString" />
+      <config projectName="DecimalCycle" targetName="DecimalCycle" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,17 +11,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d0b198-2725-4bdc-9234-48307c407a9c" name="默认的" comment="">
+    <list default="true" id="620993d1-04c6-43e0-907d-3cdd70437da5" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/CMakeFiles/JinzhiTransfer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/CMakeFiles/JinzhiTransfer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ScannerInString.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ScannerInString.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/ScannerInString.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/ScannerInString.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScannerInString/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +36,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1oQCfrqXm53RsVd86q8P9RapZjn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1oQSPzMrpMeS4hCUnMvn43IwuIY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="ScannerInString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ScannerInString" TARGET_NAME="ScannerInString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ScannerInString" RUN_TARGET_NAME="ScannerInString">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalCycle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DecimalCycle" TARGET_NAME="DecimalCycle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DecimalCycle" RUN_TARGET_NAME="DecimalCycle">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -67,14 +68,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="39d0b198-2725-4bdc-9234-48307c407a9c" name="默认的" comment="" />
-      <created>1613209533630</created>
+      <changelist id="620993d1-04c6-43e0-907d-3cdd70437da5" name="默认的" comment="" />
+      <created>1613217300540</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613209533630</updated>
-      <workItem from="1613209536911" duration="1285000" />
-      <workItem from="1613214455777" duration="397000" />
-      <workItem from="1613215706072" duration="599000" />
+      <updated>1613217300540</updated>
+      <workItem from="1613217302271" duration="7000" />
     </task>
     <servers />
   </component>
@@ -91,9 +90,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -28,12 +28,13 @@ int main() {
     }
     danci_number=kongge_number+1;
     printf("danci:%d\n",danci_number);
+
     int zimu_calculate[27];//zimu_calculate[0] is the biggest number
     for (int i = 0; i < 27; ++i) {
         zimu_calculate[i]=0;
     }
     for (int i = 0; i < len; ++i) {
-        if (s[i]!=" "){
+        if (s[i]!=' '){
             if (s[i]>='a'&s[i]<='z'){
                 zimu_calculate[s[i]-'a'+1]++;
             }
@@ -45,17 +46,17 @@ int main() {
     int max=0;
     for (int i = 1; i < 27; ++i) {
         if (zimu_calculate[i]>max){
-            max=zimu_calculate;
+            max=zimu_calculate[i];
         }
     }
     zimu_calculate[0]=max;
     printf("max char:");
     for (int i = 1; i < 27; ++i) {
         if (zimu_calculate[i]==zimu_calculate[0]){
-            printf("%c",i+'a'-1);
+            printf("%c ",i+'a'-1);
         }
     }
     printf("\n");
-    printf("number: ",zimu_calculate[0]);
+    printf("number:%d ",zimu_calculate[0]);
     return 0;
 }
