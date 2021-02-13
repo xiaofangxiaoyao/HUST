@@ -1,6 +1,5 @@
 #include <stdio.h>
-/*hello
- * */
+             
 #include "math.h"
 int IsShuShu(long n);//isshushu return 1 else return 0
 

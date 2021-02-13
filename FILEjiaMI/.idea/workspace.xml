@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FILEjiaMI" targetName="FILEjiaMI" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="206cd0b4-212b-4cf9-96be-8cc72595f3ae" name="默认的" comment="" />
+    <list default="true" id="206cd0b4-212b-4cf9-96be-8cc72595f3ae" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/FILEjiaMI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FILEjiaMI.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeiShen/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MeiShen/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/abc.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/abc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/CMakeFiles/ReadFile.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/CMakeFiles/ReadFile.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/CMakeFiles/ReadFile.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/CMakeFiles/ReadFile.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/ReadFile.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/ReadFile.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadFile/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadFile/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -55,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613188414721</updated>
-      <workItem from="1613188416284" duration="1000" />
+      <workItem from="1613188416284" duration="4678000" />
     </task>
     <servers />
   </component>

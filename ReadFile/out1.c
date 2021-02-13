@@ -2,8 +2,7 @@
 /*hello
  * */
 #include "math.h"
-int IsShuShu(long n);//isshushu return 1 else return 0
-
+int IsShuShu(long n);
 int main() {
     long number;
     scanf("%d",&number);
@@ -14,7 +13,6 @@ int main() {
         }
     }
     i=i-1;
-//    printf("%d\n",i);
     for (int j = 2; j <= i; ++j) {
         if (IsShuShu(j)){
             printf("M(%d)=%d\n",j,(int)pow(2.0,j*1.0)-1);
