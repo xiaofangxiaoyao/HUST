@@ -12,17 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="620993d1-04c6-43e0-907d-3cdd70437da5" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/CMakeFiles/JinzhiTransfer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/CMakeFiles/JinzhiTransfer.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JinzhiTransfer/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../JinzhiTransfer/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/DecimalCycle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DecimalCycle.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ScannerInString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/CMakeFiles/ScannerInString.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/ScannerInString.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/ScannerInString.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScannerInString/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ScannerInString/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +45,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DecimalCycle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DecimalCycle" TARGET_NAME="DecimalCycle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DecimalCycle" RUN_TARGET_NAME="DecimalCycle">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -73,7 +65,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613217300540</updated>
-      <workItem from="1613217302271" duration="7000" />
+      <workItem from="1613217302271" duration="469000" />
+      <workItem from="1613217782533" duration="199000" />
+      <workItem from="1613269012516" duration="548000" />
     </task>
     <servers />
   </component>
@@ -90,5 +84,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
